@@ -19,4 +19,4 @@ Courses Completed:
 
 Skills Acquired:
 Computer Security Incident Management, Professional certificate, cybersecurity analyst, Breaches, Cyber Attacks, Cybersecurity, Data Protection, Digital Forensics, Exposed Data, IBM New Collar, IBM Security, Incident Response, Network Defense Tactics, Penetration Testing, Phishing, Ransomware, Scripting, Security Analyst, SIEM, Threat Intelligence, Threat Management, Vulnerability Scanning.
-![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TZMUVDEHLNQL/TZMUVDEHLNQL-large.png)
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TZMUVDEHLNQL/CERTIFICATE_LANDING_PAGE~TZMUVDEHLNQL.jpeg)
